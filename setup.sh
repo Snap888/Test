@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Устанавливаем переменные
-PREFIX="$PREFIX/"  # Замените на ваш путь
+PREFIX="$PREFIX"  # Замените на ваш путь
 TEMP_DIR="/tmp/mobox_temp"
 URL="https://github.com/Snap888/Test/releases/download/mobox_wow64/"
 GITHUB_URLS=(
